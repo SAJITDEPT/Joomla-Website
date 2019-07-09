@@ -1,0 +1,12 @@
+/* not ready */
+
+/* form validation */
+.invalid {
+    border-color: #B94A48;
+    background: #F2DEDE;
+}
+label.invalid , label.required span {
+    color: #B94A48; background: none;
+}
+
+/* -- Joomla
